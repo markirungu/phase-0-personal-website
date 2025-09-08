@@ -39,3 +39,13 @@ body {
     justify-content: space-between;
 
 }
+
+.picture {
+
+    width: 80px;
+
+    cursor: pointer;
+
+    border-radius: 100%;
+
+}
