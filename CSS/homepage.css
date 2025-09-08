@@ -23,3 +23,19 @@ body {
     position: relative;
 
 }
+
+.logo {
+
+    width: 85%;
+
+    margin: auto;
+
+    padding: 35px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+}
