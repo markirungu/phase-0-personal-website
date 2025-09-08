@@ -60,3 +60,34 @@ body {
 
     position: relative;
 }
+
+.main {
+    width: 100%;
+
+    position: absolute;
+
+    top: 30%;
+
+    text-align: center;
+
+    color: white;
+
+    margin: auto;
+}
+
+.main h1 {
+    
+    font-size: 65px;
+}
+
+.main p {
+
+    margin: 25px auto;
+
+    font-weight: 100px;
+
+    line-height: 25px;
+
+    font-size: larger;
+    
+}
