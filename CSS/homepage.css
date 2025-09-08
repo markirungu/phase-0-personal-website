@@ -120,3 +120,7 @@ a:hover{
 
     transition: 0.3s;
 }
+
+.logo{
+    border-bottom: 1px solid white;
+}
