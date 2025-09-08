@@ -100,3 +100,23 @@ body {
     display: inline-block;  /* makes button respect spacing */
     margin-top: 15px;       /* pushes button down */
 }
+
+a{
+    text-decoration: none;
+
+    color: yellowgreen;   
+
+    padding: 10px 20px;
+
+    margin: 20px 0;
+
+    border: 2px solid yellowgreen;
+
+    border-radius: 25px;
+}
+
+a:hover{
+    color: white;
+
+    transition: 0.3s;
+}
