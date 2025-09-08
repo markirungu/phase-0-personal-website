@@ -89,5 +89,14 @@ body {
     line-height: 25px;
 
     font-size: larger;
-    
+
+}
+
+.main h6 {
+    margin-bottom: 20px;  /* gives space under h6 */
+}
+
+.main a {
+    display: inline-block;  /* makes button respect spacing */
+    margin-top: 15px;       /* pushes button down */
 }
